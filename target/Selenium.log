@@ -1,0 +1,482 @@
+2024-03-31 12:31:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 12:31:06 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 12:31:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 12:31:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 12:51:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 12:51:42 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 12:51:42 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 12:51:42 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:36:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:36:16 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:36:16 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:36:16 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:38:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:38:35 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:38:35 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:38:35 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:40:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:40:24 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:40:24 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:40:24 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:41:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:41:25 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:41:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:41:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:44:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:44:45 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:44:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:44:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:45:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:45:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:45:29 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:45:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:45:30 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:45:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:45:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:45:30 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:45:30 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:45:30 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:46:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:46:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:46:57 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:46:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:46:58 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:46:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:46:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:46:58 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:46:58 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:46:58 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:49:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:49:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:49:37 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:49:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:49:38 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:49:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:49:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:49:38 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:49:38 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:49:38 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:52:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:52:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: opera
+2024-03-31 19:52:40 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:52:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: opera
+2024-03-31 19:52:42 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:52:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:52:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:52:42 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:52:42 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:52:42 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:53:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:53:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:53:40 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:53:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:53:41 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:53:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:53:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:53:41 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:53:41 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:53:41 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:58:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:58:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:58:28 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:58:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:58:29 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:58:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:58:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:58:29 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:58:29 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:58:29 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:59:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:59:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:59:23 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:59:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 19:59:24 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:59:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:59:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 19:59:24 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 19:59:24 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 19:59:24 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:01:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:01:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:01:55 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:01:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:01:56 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:01:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:01:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:01:56 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:01:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:01:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:03:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:03:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:03:35 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:03:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:03:36 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:03:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:03:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:03:36 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:03:36 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:03:36 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:07:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:07:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:07:54 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:07:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:07:55 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:07:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:07:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:07:55 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:07:55 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:07:55 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:22:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:22:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:22:05 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:22:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:22:06 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:22:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:22:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:22:06 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:22:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:22:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:33:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:33:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:33:11 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:33:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:33:13 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:33:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:33:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:33:13 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:33:13 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:33:13 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:39:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:39:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:39:52 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:39:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:39:53 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:39:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:39:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:39:53 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:39:53 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:39:53 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:44:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:44:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:44:29 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:44:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:44:30 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:44:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:44:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:44:30 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:44:30 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:44:30 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:49:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:49:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:49:43 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:49:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:49:44 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:49:44 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:49:44 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:49:44 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:49:44 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:49:44 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:52:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:52:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:52:30 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:52:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-31 20:52:32 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:52:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:52:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:52:32 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:52:32 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:52:32 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:53:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:53:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:53:49 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:53:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:53:50 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:53:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:53:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:53:50 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:53:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:53:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:57:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:57:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:57:41 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started688113407
+2024-03-31 20:57:42 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:57:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:57:46 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started438897070
+2024-03-31 20:57:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:57:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:57:48 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:57:48 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:57:48 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:59:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:59:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:59:23 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started688113407
+2024-03-31 20:59:24 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:59:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 20:59:27 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1800592689
+2024-03-31 20:59:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:59:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 20:59:29 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 20:59:29 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 20:59:29 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 21:00:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 21:00:12 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started688113407
+2024-03-31 21:00:12 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 21:00:16 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started438897070
+2024-03-31 21:00:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 21:00:18 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 21:00:18 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:18 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 21:00:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 21:00:44 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1037572328
+2024-03-31 21:00:45 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 21:00:48 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started208437930
+2024-03-31 21:00:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2024-03-31 21:00:50 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-03-31 21:00:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 21:00:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2024-03-31 21:18:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 21:18:29 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started129924629
+2024-03-31 21:59:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:00:17 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started15429318
+2024-03-31 22:02:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:02:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:02:40 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:02:41 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:02:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:02:45 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:02:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:02:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:24:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:24:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:24:27 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:24:27 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:24:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:24:32 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:24:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:24:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:25:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:25:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:25:33 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:25:33 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:25:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:25:38 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:25:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:25:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:34:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:34:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:34:46 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:34:47 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:34:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:34:52 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:34:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:34:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:35:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:35:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:35:33 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:35:33 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:35:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:35:37 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:35:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:35:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:37:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:37:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:37:32 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1650105437
+2024-03-31 22:37:33 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:37:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:37:37 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started550351186
+2024-03-31 22:37:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:37:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:40:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:40:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:40:46 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:40:47 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:40:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:40:51 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:40:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:40:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:41:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:41:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:41:35 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:41:35 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:41:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:41:40 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:41:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:41:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:42:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:42:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:42:15 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1650105437
+2024-03-31 22:42:15 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:42:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:42:20 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1600869357
+2024-03-31 22:42:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:42:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:47:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:47:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:48:00 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:48:01 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:48:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:48:07 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:48:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:48:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:49:01 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1562251195
+2024-03-31 22:49:01 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:49:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:49:07 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1291834365
+2024-03-31 22:49:12 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:49:12 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:51:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:51:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:51:58 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2080444788
+2024-03-31 22:51:58 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:51:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:04 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1165646637
+2024-03-31 22:52:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:52:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:52:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:52:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:16 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started493294557
+2024-03-31 22:52:16 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:52:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:25 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1872928774
+2024-03-31 22:52:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:52:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 22:52:30 [INFO ] [Hooks] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 22:52:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:36 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1192166967
+2024-03-31 22:52:36 [INFO ] [Base] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 22:52:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:42 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started728153884
+2024-03-31 22:52:44 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 22:52:44 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:52:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 22:52:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:52 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started539452434
+2024-03-31 22:52:52 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 22:52:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:52:57 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1078426962
+2024-03-31 22:53:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 22:53:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 22:55:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:55:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:55:38 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started567954271
+2024-03-31 22:55:39 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:55:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:55:44 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started446613518
+2024-03-31 22:55:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:55:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:55:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:55:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:55:55 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:55:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:57:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:57:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:58:04 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2034460325
+2024-03-31 22:58:04 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:58:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:58:10 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started127758389
+2024-03-31 22:58:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:58:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:58:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:58:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:59:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:59:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:59:38 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2034460325
+2024-03-31 22:59:39 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:59:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 22:59:46 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started925131177
+2024-03-31 22:59:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 22:59:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2024-03-31 22:59:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 22:59:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:01:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:01:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:01:35 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1049650037
+2024-03-31 23:01:35 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:01:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:01:40 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started244428576
+2024-03-31 23:01:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:01:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 23:01:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:01:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:01:53 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started146540182
+2024-03-31 23:01:53 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:01:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:01:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started500580931
+2024-03-31 23:02:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:02:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:02:49 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1049650037
+2024-03-31 23:02:50 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:02:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:02:56 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1657009494
+2024-03-31 23:03:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:03:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 23:03:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:03:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:11 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1194870779
+2024-03-31 23:03:11 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:03:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:19 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started788075428
+2024-03-31 23:03:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:03:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 23:03:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:03:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:33 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1004759548
+2024-03-31 23:03:33 [INFO ] [Base] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:03:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:39 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1174737513
+2024-03-31 23:03:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:03:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 23:03:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:03:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:52 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1930792245
+2024-03-31 23:03:52 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:03:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:03:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started326802793
+2024-03-31 23:04:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:04:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-31 23:13:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:13:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:14:10 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1504154691
+2024-03-31 23:14:10 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:14:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:14:21 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1714153975
+2024-03-31 23:14:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:14:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:14:43 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1733500474
+2024-03-31 23:14:44 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:14:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:14:48 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1340928776
+2024-03-31 23:14:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2024-03-31 23:14:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2024-03-31 23:14:55 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:14:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:14:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1479809423
+2024-03-31 23:14:59 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:14:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:15:04 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started635379732
+2024-03-31 23:15:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping the mandatory fields
+2024-03-31 23:15:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2024-03-31 23:15:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:15:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:15:17 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started86938358
+2024-03-31 23:15:17 [INFO ] [Base] - [setUp] Scenario Started: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:15:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:15:23 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2025994974
+2024-03-31 23:15:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify  whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-31 23:15:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2024-03-31 23:15:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:15:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:15:38 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started67025210
+2024-03-31 23:15:39 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:15:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefox
+2024-03-31 23:15:44 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started33798663
+2024-03-31 23:15:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from creating a duplicate account
+2024-03-31 23:15:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
