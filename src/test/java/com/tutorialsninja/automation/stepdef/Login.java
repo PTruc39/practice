@@ -1,6 +1,5 @@
 package com.tutorialsninja.automation.stepdef;
 
-
 import com.tutorialsninja.automation.base.Base;
 import org.junit.Assert;
 
@@ -19,13 +18,13 @@ public class Login {
     MyAccountPage myAccountPage = new MyAccountPage();
     ForgotPasswordPage forgotPasswordPage = new ForgotPasswordPage();
 
-    @Given("^I launch the application$")
-    public void i_launch_the_application()  {
-        System.out.println("Hello, world!");
-        System.out.println("Hello, world!");
-        System.out.println("Hello, world!");
-        Base.driver.get(Base.reader.getUrl());
-    }
+//    @Given("^I launch the application$")
+//    public void i_launch_the_application()  {
+//        System.out.println("Hello, world!");
+//        System.out.println("Hello, world!");
+//        System.out.println("Hello, world!");
+//        Base.driver.get(Base.reader.getUrl());
+//    }
     @And("^I navigate to Account Login page$")
     public void i_navigate_to_Account_Login_page() {
 
@@ -73,23 +72,23 @@ public class Login {
     }
 
 
-    @Given("I navigate to Account Login page")
-    public void i_navigate_to_account_login_page() {
-        // Write code here that turns the phrase above into concrete actions
-        System.out.println("undiefine cc");
-    }
-
-    @When("I login to the Application using Username {string} and Password {string}")
-    public void i_login_to_the_application_using_username_and_password(String string, String string2) {
-        // Write code here that turns the phrase above into concrete actions
-        System.out.println("undiefine cc");
-    }
-
-    @Then("I should see that the User is able to login successfully")
-    public void i_should_see_that_the_user_is_able_to_login_successfully() {
-        // Write code here that turns the phrase above into concrete actions
-        System.out.println("undiefine cc");
-    }
+//    @Given("I navigate to Account Login page")
+//    public void i_navigate_to_account_login_page() {
+//        // Write code here that turns the phrase above into concrete actions
+//        System.out.println("undiefine cc");
+//    }
+//
+//    @When("I login to the Application using Username {string} and Password {string}")
+//    public void i_login_to_the_application_using_username_and_password(String string, String string2) {
+//        // Write code here that turns the phrase above into concrete actions
+//        System.out.println("undiefine cc");
+//    }
+//
+//    @Then("I should see that the User is able to login successfully")
+//    public void i_should_see_that_the_user_is_able_to_login_successfully() {
+//        // Write code here that turns the phrase above into concrete actions
+//        System.out.println("undiefine cc");
+//    }
 
 
 }

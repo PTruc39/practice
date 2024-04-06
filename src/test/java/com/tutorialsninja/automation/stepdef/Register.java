@@ -7,6 +7,15 @@ import com.tutorialsninja.automation.framework.Elements;
 import com.tutorialsninja.automation.pages.AccountSuccessPage;
 import com.tutorialsninja.automation.pages.HeadersSection;
 import com.tutorialsninja.automation.pages.RegisterPage;
+
+import com.tutorialsninja.automation.framework.Elements;
+import com.tutorialsninja.automation.pages.ForgotPasswordPage;
+import com.tutorialsninja.automation.pages.HeadersSection;
+import com.tutorialsninja.automation.pages.LoginPage;
+import com.tutorialsninja.automation.pages.MyAccountPage;
+
+
+
 import io.cucumber.java.PendingException;
 import io.cucumber.java.en.*;
 
@@ -17,8 +26,7 @@ public class Register {
     @Given("^I launch the application$")
     public void i_launch_the_application()  {
         System.out.println("Hello, world!");
-        System.out.println("Hello, world!");
-        System.out.println("Hello, world!");
+
         Base.driver.get(Base.reader.getUrl());
 
 
