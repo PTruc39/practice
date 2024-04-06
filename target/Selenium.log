@@ -565,3 +565,73 @@
 2024-04-06 10:21:28 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started2636011
 2024-04-06 10:21:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is not able to login with invalid credentials
 2024-04-06 10:21:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:21:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is not able to login without providing credentials
+2024-04-06 10:21:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:21:50 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started21779075
+2024-04-06 10:21:51 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is not able to login without providing credentials
+2024-04-06 10:21:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:22:01 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started857865061
+2024-04-06 10:22:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is not able to login without providing credentials
+2024-04-06 10:22:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:22:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to reset the forgotten password
+2024-04-06 10:22:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:22:14 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started449822808
+2024-04-06 10:22:14 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to reset the forgotten password
+2024-04-06 10:22:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:22:21 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1316436874
+2024-04-06 10:22:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to reset the forgotten password
+2024-04-06 10:22:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:37:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:37:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:14 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started918200393
+2024-04-06 10:37:14 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:37:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:19 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started297137378
+2024-04-06 10:37:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-06 10:37:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:37:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is not able to login with invalid credentials
+2024-04-06 10:37:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:28 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1856400435
+2024-04-06 10:37:29 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is not able to login with invalid credentials
+2024-04-06 10:37:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:33 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started920102538
+2024-04-06 10:37:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is not able to login with invalid credentials
+2024-04-06 10:37:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:37:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is not able to login without providing credentials
+2024-04-06 10:37:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:42 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started334594745
+2024-04-06 10:37:42 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is not able to login without providing credentials
+2024-04-06 10:37:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:37:47 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1416656186
+2024-04-06 10:40:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:40:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:40:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started883087072
+2024-04-06 10:40:59 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:40:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:41:03 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1123830468
+2024-04-06 10:41:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-06 10:41:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:41:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:41:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:41:59 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1494896526
+2024-04-06 10:42:00 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:42:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:42:04 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started132326253
+2024-04-06 10:42:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-06 10:42:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:42:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:42:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:42:57 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1408073939
+2024-04-06 10:42:57 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:42:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:43:01 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started950330032
+2024-04-06 10:43:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-06 10:43:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-04-06 10:50:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:50:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:50:05 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started1408073939
+2024-04-06 10:50:06 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2024-04-06 10:50:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: firefoxs
+2024-04-06 10:50:09 [INFO ] [Browser] - [startBrowser] Firefox Browser is Started950330032
+2024-04-06 10:50:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-06 10:50:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
